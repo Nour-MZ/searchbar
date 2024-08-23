@@ -46,7 +46,7 @@ body{
 
 .search-container .search-text-div{
     font-size: 1.5rem;
-    color:rgb(168, 168, 168);
+    color:rgb(136, 137, 137);
 }
 .search-container .search-buttons-container{
     display: flex;
@@ -79,7 +79,7 @@ body{
 }
 
 .search-buttons-container .search-button{
-    margin-right: 1.5rem ;
+    margin-right: 1rem ;
 }
 
 .container{
