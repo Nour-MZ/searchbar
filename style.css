@@ -26,7 +26,7 @@ body{
     margin-right: 1rem;
 }
 .search-container{
-    height: 5rem;
+    height: 6rem;
     background-color: white;
     display: flex;
     justify-content: space-between;
@@ -68,7 +68,7 @@ body{
 }
 
 .search-buttons-container .btn-cont:hover{
-    background-color: rgb(6, 179, 209);
+    background-color: #B7F4FF;
     border:  1px solid rgb(6, 179, 209);
 }
 
