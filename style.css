@@ -28,10 +28,10 @@ body{
     margin-right: 1rem;
 }
 .search-container{
-    height: 10rem;
+    height: 6rem;
     background-color: white;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     padding-left: 2rem;
@@ -52,9 +52,8 @@ body{
 }
 .search-container .search-text-div #search-input{
     width: 100%;
-    border-bottom: 1px solid #EBEBE9;
-    padding-bottom: 0.5rem;
-    padding-top: 0.5rem;
+
+    
     text-align: center;
 }
 #search-input,
@@ -65,17 +64,18 @@ body{
 }
 .search-container .search-text-div{
     background-color: transparent;
-    font-size: 1rem;
-    margin-top: 0.5rem;
+    font-size: 1.2rem;
     color:rgb(136, 137, 137);
     width: 100%;
+    padding-right: 1rem;
 }
 .search-container .search-buttons-container{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: end;
     width: 100%;
-    margin-bottom: 0.5rem;
+
+    flex-shrink: 5;
 }
 
 .search-buttons-container .btn-cont{
