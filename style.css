@@ -53,8 +53,6 @@ body{
 .search-container .search-text-div #search-input{
     width: 100%;
 
-    
-    text-align: center;
 }
 #search-input,
 #search-input:focus{
