@@ -65,7 +65,7 @@ body{
 }
 .search-container .search-text-div{
     background-color: transparent;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-top: 0.5rem;
     color:rgb(136, 137, 137);
     width: 100%;
@@ -73,7 +73,7 @@ body{
 .search-container .search-buttons-container{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     width: 100%;
     margin-bottom: 0.5rem;
 }
